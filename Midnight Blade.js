@@ -9,6 +9,5 @@ abilitytodamage : true,
 damage : [1, 8, "slashing"],
 range : "Melee",
 description : "Finesse, light",
-modifiers : [Prof+Dex+3, ""],
 isMagicWeapon : true,
 }
