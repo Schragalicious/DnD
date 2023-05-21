@@ -1,4 +1,4 @@
-var iFileName = "Homebrew Syntax - MidnightBlade.js";
+var iFileName = "MidnightBlade.js";
 WeaponsList["Midnight Blade"] = {
 name : "Midnight Blade",
 source : ["HB", 0],
