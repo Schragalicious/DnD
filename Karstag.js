@@ -1,4 +1,4 @@
-var iFileName = "Karstag.js";
+var iFileName = "Sword of Karstag";
 WeaponsList["Sword of Karstag"] = {
 name : "Sword of Karstag",
 source : ["HB", 1],
