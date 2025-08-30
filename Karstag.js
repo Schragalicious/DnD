@@ -15,6 +15,7 @@ list : "melee",
 modifiers : [2,"2"],
 isMagicWeapon : true,
 }
+
 MagicItemsList["Sword of Karstag"] = {
 name : "Sword of Karstag",
 source : ["HB", 0],
