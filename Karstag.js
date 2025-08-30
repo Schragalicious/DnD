@@ -16,7 +16,7 @@ modifiers : [2,"2"],
 isMagicWeapon : true,
 }
 MagicItemsList["Sword of Karstag"] = {
-name : "Booming Hammer",
+name : "Sword of Karstag",
 source : ["HB", 0],
 type : "weapon",
 rarity : "artifact",
