@@ -1,9 +1,10 @@
 var iFileName = "Sword of Karstag";
+
 WeaponsList["Sword of Karstag"] = {
 name : "Sword of Karstag",
 source : ["HB", 1],
 regExpSearch : /Sword of Karstag/i,
-type: "Martial",
+type : "Martial",
 ability : 1,
 abilitytodamage : true,
 damage : [2, 8, "slashing"],
