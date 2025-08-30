@@ -24,4 +24,4 @@ rarity : "artifact",
 attunement : true,
 weight : 14,
 description : "You have a +2 on attack rolls for this Magic Weapon. This weapon has 3 charges. When you roll a critical hit, you can expend a charge to deal an additional damage die of damage. The weapon regains 1d3 expended charges at dawn. As a Bonus Action, You can activate the Sword of Karstag's Wrath. For 1 minute, the sword emits an aura of power, shedding dim light in a 10-foot radius. While the aura is active, you gain the following benefits: Whenever you hit a creature with an attack using the sword, they must make a DC 18 Constitution saving throw or be stunned until the start of your next turn. After the Sword of Karstag’s Wrath ends, it cannot be used until after 1d6 days.",
-}
+}}
